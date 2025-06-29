@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.476af481.css",
-    "main.js": "/portfolio/static/js/main.080d968d.js",
+    "main.css": "/portfolio/static/css/main.bd37e380.css",
+    "main.js": "/portfolio/static/js/main.d0d699ea.js",
     "static/media/sihandvid.mp4": "/portfolio/static/media/sihandvid.6e43cc2cbf2ab63c901b.mp4",
     "static/media/rtabvid2.mp4": "/portfolio/static/media/rtabvid2.36b65a355ca52d9f3fd7.mp4",
     "static/media/rtabvid1.mp4": "/portfolio/static/media/rtabvid1.12d2b621bae12aaab008.mp4",
@@ -35,11 +35,11 @@
     "static/media/drone1.jpg": "/portfolio/static/media/drone1.e652a186c5f84904bd36.jpg",
     "static/media/2022-09-26_Arducam_TOF2.avif": "/portfolio/static/media/2022-09-26_Arducam_TOF2.de6185b425ce556bc365.avif",
     "index.html": "/portfolio/index.html",
-    "main.476af481.css.map": "/portfolio/static/css/main.476af481.css.map",
-    "main.080d968d.js.map": "/portfolio/static/js/main.080d968d.js.map"
+    "main.bd37e380.css.map": "/portfolio/static/css/main.bd37e380.css.map",
+    "main.d0d699ea.js.map": "/portfolio/static/js/main.d0d699ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.476af481.css",
-    "static/js/main.080d968d.js"
+    "static/css/main.bd37e380.css",
+    "static/js/main.d0d699ea.js"
   ]
 }
